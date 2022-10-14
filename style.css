@@ -1,0 +1,39 @@
+.heading
+{
+    font-size: 30px;
+    margin: 0px;
+    box-shadow: 5px 5px 5px red;
+    width: 100%;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.note
+{
+    font: 10px;
+    color: black;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: white;
+    line-height: 3;
+    background-color: grey;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.background_1
+{
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+canvas{
+    border:5px solid gainsboro;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px grey;
+    
+}
